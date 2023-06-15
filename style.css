@@ -1,0 +1,69 @@
+header{
+    width: 100%;
+    height: 150px;
+    background-color: yellow;
+    background-size: 100%;
+    display: block;
+}
+
+header img{
+    height: 150px;
+    width: 150px;
+    margin-left: 505px;
+    margin-top: 15px;
+}
+
+main{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: block;
+    background-size: 100%;
+}
+
+main  h1{
+    font-size: 20px;
+    margin-left: 50px;
+    color: white;
+    margin-top: 20px;
+}
+
+.livro1{
+    height: 210px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.nome1{
+    color: white;
+    margin-left: 50px
+}
+
+.preço1{
+    color: white;
+    margin-left: 50px;
+}
+
+.livro2{
+    height: 210px;
+    width: 150px;
+    margin-left: 350px;
+    margin-top: -300px;
+    margin-bottom: 102px;
+}
+
+.nome2{
+    color: white;
+    margin-top: -87px;
+    margin-left: 350px
+}
+
+.preço2{
+    color: white;
+    margin-left: 350px;
+}
+
+
+
+
