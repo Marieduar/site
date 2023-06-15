@@ -64,6 +64,40 @@ main  h1{
     margin-left: 350px;
 }
 
+.livro3{
+    height: 210px;
+    width: 150px;
+    margin-left: 660px;
+    margin-top: -300px;
+    margin-bottom: 102px;
+}
 
+.nome3{
+    color: white;
+    margin-top: -87px;
+    margin-left: 660px
+}
 
+.preço3{
+    color: white;
+    margin-left: 660px;
+}
 
+.livro4{
+    height: 210px;
+    width: 150px;
+    margin-left: 990px;
+    margin-top: -300px;
+    margin-bottom: 102px;
+}
+
+.nome4{
+    color: white;
+    margin-top: -87px;
+    margin-left: 990px
+}
+
+.preço4{
+    color: white;
+    margin-left: 990px;
+}
